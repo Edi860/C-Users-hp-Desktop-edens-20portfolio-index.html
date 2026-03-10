@@ -1,6 +1,3 @@
-git add script.js
-git commit -m "Add JavaScript file"
-git push
 particlesJS("particles-js", {
   particles: {
     number: { value: 70 },
